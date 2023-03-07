@@ -9,7 +9,7 @@
 <br>
 
 <div>
-  <img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="345" height="520"/>
+  <img src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="345" height="520"/>
 
   <h3 align="left">👨🏻‍💻 About me</h3>
   <p>
@@ -58,7 +58,7 @@
 <br>
 
 <div>
-  <h3 align="left">🔭 Projects</h3>
+  <h3 align="left">🌟 Featured Projects</h3>
   <p align="center">
     <a href=https://github.com/LBC-LNBio/pyKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=pyKVFinder&show_owner=True&theme=merko"></a>
     <a href=https://github.com/LBC-LNBio/parKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder&show_owner=True&theme=merko"></a>
