@@ -6,9 +6,11 @@
   <a href="https://github.com/jvsguerra?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"/></a>
 </p>
 
-### 👨🏻‍💻  &nbsp;About me
+<div>
 
-<img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="320" height="480"/>
+  <img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="345" height="520"/>
+
+### 👨🏻‍💻  &nbsp;About me
 
 - 💡 &nbsp; I'm a software developer and research analyst in Computational Biology, working @ [LNBio](https://lnbio.cnpem.br)/[CNPEM](https://cnpem.br). &nbsp;
 - 🎓 &nbsp; I'm currently a PhD student in Pharmaceutical Sciences at [UNICAMP](https://www.unicamp.br). &nbsp;
@@ -37,13 +39,18 @@
 
 ### 🤝🏻 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="mailto:jvsguerra@gmail.com"><img src="https://img.shields.io/badge/-jvsguerra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:joao.guerra@lnbio.cnpem.br"><img src="https://img.shields.io/badge/-joao.guerra@lnbio.cnpem.br-0078D4?style=flat&logo=Microsoft-outlook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jvsguerra"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <br>
   <a href="https://www.researchgate.net/profile/Joao-Victor-Guerra"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-00CCBB?style=flat&logo=ResearchGate&logoColor=white"/></a>
-  <a href="https://orcid.org/0000-0002-6800-4425"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
-<!-- <a href="http://lattes.cnpq.br/5809550322159439"><img src="https://img.shields.io/badge/-5809550322159439-0077B5?logo=images/lattes.svg"/></a> -->
+  <a href="https://orcid.org/0000-0002-6800-4425"><img src="https://img.shields.io/badge/-0000--0002--6800-4425--A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/5809550322159439">
+    <img src="https://img.shields.io/badge/-5809550322159439-0077B5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAzCAMAAAA0GHFDAAAB%2BFBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD%2F%2F%2F%2FTRCtVAAAApnRSTlMAAQIDBAUGCAkKCw0ODxASFBUWFxwdHyEiJCUmKSssLS8wMTM0NTY3ODo7PEJDREdISUtMTVFTVVZXWFtdYGFiY2RlZmlqbG1vcHJzd3p%2Bg4aIio2Oj5CRk5SWl5iZnJ2foqOkp6ipq66vsLGys7S1t7i5uru8v8DBw8TFx8jJyszNzs%2FR0tPX2dzd3t%2Fg4uTl5ufp6%2Bzt7u%2Fw8vP09vf4%2Bfr7%2FP3%2BuXp%2F%2BAAAAiBJREFUeNrd01NjrFcYBeB1bJ%2Bkbmzbtm3btm3bnqzf2UGw9%2BBLb9vndvMV%2Fvve%2Bea2zp3w4mB3vr0k2eUtFLi0nVNyPZXv9hJG%2Fd1NYw5q%2FF%2FBQMgZTdlM098fqqJkpzox0MXGxt7dKyAyJvwdJE6XFPU4P4dp75YoyngGJakUNUHj%2Fa%2B%2FvIYxLzYpsgUQMnlNXi8UOEHrIx65UrT%2FDC9reK%2FfGmr17Z9wL4OiEflnlwkAgjlvBug0UTQEzFOUBrw94spP6IxRNA1sU%2BIBFJML36A1TtHxM4xRMg%2FYkRx8Kd%2BtY44kyn7gzS3JbGiMUhKON7OUfAb2SKosodZMSS1gvkrBIoATqrVArZCS43fA9w4%2B8gN%2Bp8aNOYBkykKg5j5BnaNIAHnUigfgQFkvtH5LauhtKQh6D8Dpmlp1AF4eU3JrAZnDAXXG5TB1KiF6FvJw2xzUfFWUXP7EI6tBPhiF2oevf3jG5TTNnvBOEaDzOniAgmqoWaqWmzJD7T7gu31QaknnwvnFG81Oy8SWI0piodFGrfWeqvz0VLWKvIq%2B1Rvqu%2FkJSDlU1AidPv4LKht52JSV494wn7T%2BBfd8%2BJQzRzx4NkNlV74QBFLRqTdEzxeoYM0OsjClRH8BZK9WacJRNAzF0ihV1Q8Y8WbL2N7mv2BcCvUdl%2F0JU97vUHTdG%2F0BCpL54Kwr6iuUvdnQ7RzOcn%2BDp0UcDpfGO7%2FG%2F88%2FCEvWelelJTQAAAAASUVORK5CYII%3D">
+  </a>
 </p>
+</div>
 
 ### 🔭 Projects
 
