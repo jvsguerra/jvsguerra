@@ -21,7 +21,7 @@
     </a>
     <ul>
       <li>💡 &nbsp; I'm a software developer and research analyst in Computational Biology, working @ <a href="https://lnbio.cnpem.br">LNBio</a>/<a href="https://cnpem.br">CNPEM</a>.</li>
-      <li>🎓 &nbsp; I'm currently a PhD student in Pharmaceutical Sciences at <a href="https://www.unicamp.br">UNICAMP</a>.</li>
+      <li>🎓 &nbsp; I'm currently a PhD student in Pharmaceutical Sciences @ <a href="https://www.unicamp.br">UNICAMP</a>.</li>
       <li>💻 &nbsp; My current work focuses on developing and applying computational methods to analyze and interpret biological data, specifically in the fields of structural biology and omics. </li>
       <li>👯 &nbsp; Through collaboration with researchers from various disciplines and institutions, I have gained a strong appreciation for the intersection of biology and computer science.</li>
     </ul
