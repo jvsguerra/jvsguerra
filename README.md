@@ -9,7 +9,6 @@
 <br>
 
 <div>
- 
   <img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="345" height="520"/>
 
   <h3 align="left">👨🏻‍💻 About me</h3>
@@ -73,14 +72,16 @@
   </p>
 </div>
 
+<br>
+  
 <div>
   
   <img width="320" height="480" align="right" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree-machine.gif"/>
 
   <h3 align="left">⚙️ GitHub Analytics</h3>
   <p>
-    <img align="left" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvsguerra&count_private=true&show_icons=true&theme=merko"/>
-    <img align="left" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvsguerra&theme=merko&hide=jupyter%20notebook&langs_count=6&layout=compact&custom_title=TopLanguages"/>
+    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=jvsguerra&count_private=true&show_icons=true&theme=merko"/>
+    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsguerra&theme=merko&hide=jupyter%20notebook&langs_count=6&layout=compact"/>
   </p>
 
 </div>
