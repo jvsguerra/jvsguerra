@@ -6,30 +6,16 @@
   <a href="https://github.com/jvsguerra?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"/></a>
 </p>
 
-### 👨🏻‍💻  &nbsp;About Me
+### 👨🏻‍💻  &nbsp;About me
 
-<img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="180" height="240"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree.gif" align="right" width="320" height="480"/>
 
 - 💡 &nbsp; I'm a software developer and research analyst in Computational Biology, working @ [LNBio](https://lnbio.cnpem.br)/[CNPEM](https://cnpem.br). &nbsp;
 - 🎓 &nbsp; I'm currently a PhD student in Pharmaceutical Sciences at [UNICAMP](https://www.unicamp.br). &nbsp;
 - 💻 &nbsp; My current work focuses on developing and applying computational methods to analyze and interpret biological data, specifically in the fields of structural biology and omics. &nbsp;
 - 👯 &nbsp; Through collaboration with researchers from various disciplines and institutions, I have gained a strong appreciation for the intersection of biology and computer science. &nbsp;
 
-### 🔭 Projects
-
-[![pyKVFinder](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=pyKVFinder&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/pyKVFinder)
-[![parKVFinder](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/parKVFinder)
-[![parKVFinder-win](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder-win&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/parKVFinder-win)
-[![SERD](https://github-readme-stats.vercel.app/api/pin/?username=jvsguerra&repo=SERD&show_owner=True&theme=merko)](https://github.com/jvsguerra/SERD)
-[![KVFinder-web](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/KVFinder-web)
-[![KVFinder-web-service](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-service&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/KVFinder-web-service)
-[![KVFinder-web-portal](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-portal&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/KVFinder-web-portal)
-[![PyMOL-KVFinder-web-Tools](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=PyMOL-KVFinder-web-Tools&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/PyMOL-KVFinder-web-Tools)
-[![SMC-Benchmarking](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=SMC-Benchmarking&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/SMC-Benchmarking)
-
 ### 🛠 Tech Stack
-
-<img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree-machine.gif" align="right" width="320" height="500"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -49,22 +35,35 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=GIMP&logoColor=5C5543)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=flat&logo=Inkscape&logoColor=276DC3)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🤝🏻 Connect with me
 
 <p align="center">
-<a href="https://github.com/jvsguerra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvsguerra&count_private=true&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvsguerra&theme=merko&hide=jupyter%20notebook&langs_count=6&layout=compact&custom_title=Top%20Languages"/>
-</a>
+  <a href="mailto:jvsguerra@gmail.com"><img src="https://img.shields.io/badge/-jvsguerra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jvsguerra"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Joao-Victor-Guerra"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-00CCBB?style=flat&logo=ResearchGate&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-6800-4425"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
+<!-- <a href="http://lattes.cnpq.br/5809550322159439"><img src="https://img.shields.io/badge/-5809550322159439-0077B5?logo=images/lattes.svg"/></a> -->
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🔭 Projects
+
+[![pyKVFinder](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=pyKVFinder&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/pyKVFinder)
+[![parKVFinder](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/parKVFinder)
+[![parKVFinder-win](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder-win&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/parKVFinder-win)
+[![SERD](https://github-readme-stats.vercel.app/api/pin/?username=jvsguerra&repo=SERD&show_owner=True&theme=merko)](https://github.com/jvsguerra/SERD)
+[![KVFinder-web](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/KVFinder-web)
+[![KVFinder-web-service](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-service&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/KVFinder-web-service)
+[![KVFinder-web-portal](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-portal&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/KVFinder-web-portal)
+[![PyMOL-KVFinder-web-Tools](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=PyMOL-KVFinder-web-Tools&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/PyMOL-KVFinder-web-Tools)
+[![SMC-Benchmarking](https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=SMC-Benchmarking&show_owner=True&theme=merko)](https://github.com/LBC-LNBio/SMC-Benchmarking)
+
+<img alt="Coding" src="https://raw.githubusercontent.com/jvsguerra/jvsguerra/main/images/pixel-art-tree-machine.gif" align="right" width="320" height="500"/>
+
+### ⚙️ GitHub Stats
 
 <p align="center">
- <a href="mailto:joao.guerra@lnbio.cnpem.br"><img src="https://img.shields.io/badge/-joao.guerra@lnbio.cnpem.br-0077B5?style=flat&logo=Microsoft-Outlook&logoColor=white"/></a>
-<a href="mailto:jvsguerra@gmail.com"><img src="https://img.shields.io/badge/-jvsguerra@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://linkedin.com/in/jvsguerra"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.researchgate.net/profile/Joao-Victor-Guerra"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-00CCBB?style=flat&logo=ResearchGate&logoColor=white"/></a>
-<a href="https://orcid.org/0000-0002-6800-4425"><img src="https://img.shields.io/badge/-João%20Victor%20Guerra-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
-<!-- <a href="http://lattes.cnpq.br/5809550322159439"><img src="https://img.shields.io/badge/-5809550322159439-0077B5?logo=images/lattes.svg"/></a> -->
+  <a href="https://github.com/jvsguerra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvsguerra&count_private=true&show_icons=true&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvsguerra&theme=merko&hide=jupyter%20notebook&langs_count=6&layout=compact&custom_title=Top%20Languages"/>
+  </a>
 </p>
