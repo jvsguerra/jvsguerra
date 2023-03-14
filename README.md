@@ -60,15 +60,15 @@
 <div>
   <h3 align="left">🌟 Featured Projects</h3>
   <p align="center">
-    <a href=https://github.com/LBC-LNBio/pyKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=pyKVFinder&show_owner=True&theme=merko"></a>
-    <a href=https://github.com/LBC-LNBio/parKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder&show_owner=True&theme=merko"></a>
-   <a href=https://github.com/LBC-LNBio/parKVFinder-win><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder-win&show_owner=True&theme=merko"></a>
-    <a href=https://github.com/jvsguerra/SERD><img src="https://github-readme-stats.vercel.app/api/pin/?username=jvsguerra&repo=SERD&show_owner=True&theme=merko"></a>
-   <a href=https://github.com/LBC-LNBio/KVFinder-web><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web&show_owner=True&theme=merko"></a>
-   <a href=https://github.com/LBC-LNBio/KVFinder-web-service><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-service&show_owner=True&theme=merko"></a>
-   <a href=https://github.com/LBC-LNBio/KVFinder-web-portal><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-portal&show_owner=True&theme=merko"></a>
-   <a href=https://github.com/LBC-LNBio/PyMOL-KVFinder-web-Tools><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=PyMOL-KVFinder-web-Tools&show_owner=True&theme=merko"></a>
-   <a href=https://github.com/LBC-LNBio/SMC-Benchmarking><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=SMC-Benchmarking&show_owner=True&theme=merko"></a>
+    <a href=https://github.com/LBC-LNBio/pyKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=pyKVFinder&show_owner=True&theme=gotham"></a>
+    <a href=https://github.com/LBC-LNBio/parKVFinder><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder&show_owner=True&theme=gotham"></a>
+   <a href=https://github.com/LBC-LNBio/parKVFinder-win><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=parKVFinder-win&show_owner=True&theme=gotham"></a>
+    <a href=https://github.com/jvsguerra/SERD><img src="https://github-readme-stats.vercel.app/api/pin/?username=jvsguerra&repo=SERD&show_owner=True&theme=gotham"></a>
+   <a href=https://github.com/LBC-LNBio/KVFinder-web><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web&show_owner=True&theme=gotham"></a>
+   <a href=https://github.com/LBC-LNBio/KVFinder-web-service><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-service&show_owner=True&theme=gotham"></a>
+   <a href=https://github.com/LBC-LNBio/KVFinder-web-portal><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-portal&show_owner=True&theme=gotham"></a>
+   <a href=https://github.com/LBC-LNBio/PyMOL-KVFinder-web-Tools><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=PyMOL-KVFinder-web-Tools&show_owner=True&theme=gotham"></a>
+   <a href=https://github.com/LBC-LNBio/SMC-Benchmarking><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=SMC-Benchmarking&show_owner=True&theme=gotham"></a>
   </p>
 </div>
 
@@ -80,8 +80,8 @@
 
   <h3 align="left">⚙️ GitHub Analytics</h3>
   <p>
-    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=jvsguerra&count_private=true&show_icons=true&theme=merko"/>
-    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsguerra&theme=merko&hide=jupyter%20notebook&langs_count=6&layout=compact"/>
+    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=jvsguerra&count_private=true&show_icons=true&theme=gotham"/>
+    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsguerra&theme=gotham&hide=jupyter%20notebook&langs_count=6&layout=compact"/>
   </p>
 
 </div>
