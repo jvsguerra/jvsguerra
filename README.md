@@ -31,15 +31,16 @@
     <img src=https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB>
     <img src=https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC>
     <img src=https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C>
-    <img src=https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3>
     <img src=https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust&logoColor=276DC3>
     <img src=https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032>
     <img src=https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=2088FF>
     <img src=https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=2088FF>
     <img src=https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC>
+    <img src=https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3>
     <img src=https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio&logoColor=75AADB>
     <img src=https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=LaTeX&logoColor=008080>
     <img src=https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26>
+    <img src=https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=2088FF>
     <img src=https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown>
     <img src=https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED>
     <img src=https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=276DC3>
