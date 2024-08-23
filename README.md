@@ -69,6 +69,7 @@
    <a href=https://github.com/LBC-LNBio/KVFinder-web-portal><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=KVFinder-web-portal&show_owner=True&theme=gotham"></a>
    <a href=https://github.com/LBC-LNBio/PyMOL-KVFinder-web-Tools><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=PyMOL-KVFinder-web-Tools&show_owner=True&theme=gotham"></a>
    <a href=https://github.com/LBC-LNBio/SMC-Benchmarking><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=SMC-Benchmarking&show_owner=True&theme=gotham"></a>
+    <a href=https://github.com/LBC-LNBio/ESMIFDesign><img src="https://github-readme-stats.vercel.app/api/pin/?username=LBC-LNBio&repo=ESMIFDesign&show_owner=True&theme=gotham"></a>
   </p>
 </div>
 
