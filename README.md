@@ -20,7 +20,7 @@
     </a>
     <ul>
       <li>💡 &nbsp; I'm a data scientist focused on biology and health sciences, working @ <a href="https://lnbio.cnpem.br">LNBio</a>/<a href="https://cnpem.br">CNPEM</a>.</li>
-      <li>💻 &nbsp; My current work focuses on developing and applying computational methods to analyze and interpret biological data, specifically in the fields of structural biology and omics. </li>
+      <li>💻 &nbsp; My current work focuses on developing and applying computational methods to analyze and interpret biological data, specifically in the fields of structural biology, omics, and bioimaging. </li>
       <li>👯 &nbsp; Through collaboration with researchers from various disciplines and institutions, I have gained a strong appreciation for the intersection of biology and computer science.</li>
     </ul
   </p>
